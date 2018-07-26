@@ -2,5 +2,8 @@
 Hello world
 this is new committ
 this is file
+<<<<<<< HEAD
 
-modified by suni
+modified by mouni
+modified by suni 
+
